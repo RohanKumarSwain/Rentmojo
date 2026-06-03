@@ -13,8 +13,8 @@ function AdminLogin() {
     e.preventDefault();
 
     if (
-      email === "goudaparth07@gmail.com" &&
-      password === "parth2116"
+      email === "rentmojo22@gmail.com" &&
+      password === "rohan123"
     ) {
 
       localStorage.setItem(
